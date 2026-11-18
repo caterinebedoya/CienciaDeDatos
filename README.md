@@ -1,4 +1,4 @@
-# CienciaDeDatos
+# 
 # Ciencia de Datos
 
 Colección de notebooks en Python orientados al análisis de datos con pandas y a la aplicación de modelos de aprendizaje automático, desde métodos clásicos como la regresión lineal y los árboles de decisión hasta redes neuronales con Keras y TensorFlow.
@@ -20,23 +20,11 @@ Los notebooks se desarrollaron como laboratorios del curso **Aprendizaje Estadí
 
 ## 📂 Contenido
 
-| Notebook | Tema |
-|---|---|
-| [`lab01_[tema].ipynb`](lab01_[tema].ipynb) | [Introducción / análisis de datos con pandas] |
-| [`lab03_[tema].ipynb`](lab03_[tema].ipynb) | [Regresión lineal] |
-| [`lab04_[tema].ipynb`](lab04_[tema].ipynb) | [Tema] |
-| [`lab05_[tema].ipynb`](lab05_[tema].ipynb) | [Árboles de decisión] |
-| [`lab07_[tema].ipynb`](lab07_[tema].ipynb) | [Tema] |
-| [`lab08_keras.ipynb`](lab08_keras.ipynb) | Redes neuronales con Keras y TensorFlow |
-| [`lab11_svm.ipynb`](lab11_svm.ipynb) | Máquinas de soporte vectorial (SVM) |
-
-## 🎯 Temas abordados
-
-- Análisis exploratorio y preprocesamiento de datos.
-- Regresión lineal y evaluación de modelos.
-- Árboles de decisión.
-- Máquinas de soporte vectorial.
-- Redes neuronales con Keras y TensorFlow.
+| Notebook | Descripción | Técnicas |
+|---|---|---|
+| [`ejercicio_analisis_de_datos.ipynb`](ejercicio_analisis_de_datos.ipynb) | Análisis exploratorio de un conjunto de datos: limpieza, transformación y visualización. | pandas |
+| [`series_de_tiempo.ipynb`](series_de_tiempo.ipynb) | Análisis de datos en el tiempo para identificar tendencias y patrones. | pandas, series de tiempo |
+| [`modelo_de_aprendizaje_terremotos.ipynb`](modelo_de_aprendizaje_terremotos.ipynb) | Red neuronal aplicada a datos sísmicos. | Keras, TensorFlow |
 
 ## ▶️ Cómo ejecutar
 
